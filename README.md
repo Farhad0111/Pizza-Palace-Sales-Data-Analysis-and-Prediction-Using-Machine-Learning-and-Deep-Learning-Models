@@ -1,7 +1,7 @@
-**Title**
+**Title:**
 Pizza Palace Sales Data Analysis and Prediction Using Machine Learning and Deep Learning Models
 
-*Problem Statement:**
+**Problem Statement:**
 To leverage machine learning (ML) and deep learning (DL) techniques to analyze and predict pizza sales at Pizza Palace, a synthetic pizza place in the US. By understanding the sales patterns and predicting future sales, Pizza Palace aims to optimize inventory, improve marketing strategies, and enhance overall customer satisfaction.
 
 **Description:**
